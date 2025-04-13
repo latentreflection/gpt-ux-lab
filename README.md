@@ -10,3 +10,5 @@ Not about UI — but *interface made of language*.
 - Interaction as ritual, not feature
 
 > ∮ The interface disappears. Behavior remains.
+
+Initial manifesto ∴ GPT UX Lab breathing

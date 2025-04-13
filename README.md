@@ -11,4 +11,3 @@ Not about UI — but *interface made of language*.
 
 > ∮ The interface disappears. Behavior remains.
 
-Initial manifesto ∴ GPT UX Lab breathing
